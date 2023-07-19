@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oscar Lopez - Videogame Production</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>http://localhost:4000/</link>
-	  <atom:link href="http://localhost:4000/>feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 06 Jul 2023 19:45:03 +0800</pubDate>
-    <lastBuildDate>Thu, 06 Jul 2023 19:45:03 +0800</lastBuildDate>
+    <description>Videogame management and Production</description>
+    <link>/</link>
+	  <atom:link href="/>feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 19 Jul 2023 21:03:53 +0800</pubDate>
+    <lastBuildDate>Wed, 19 Jul 2023 21:03:53 +0800</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>
 </description>
         <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/game%20development/2019/01/01/project-1/</link>
-        <guid isPermaLink="true">http://localhost:4000/game%20development/2019/01/01/project-1/</guid>
+        <link>/game%20development/2019/01/01/project-1/</link>
+        <guid isPermaLink="true">/game%20development/2019/01/01/project-1/</guid>
         
         
         <category>Game Development</category>
@@ -27,8 +27,8 @@
         <description>
 </description>
         <pubDate>Thu, 17 Jul 2014 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/17/project-2/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/17/project-2/</guid>
+        <link>/web%20development/2014/07/17/project-2/</link>
+        <guid isPermaLink="true">/web%20development/2014/07/17/project-2/</guid>
         
         
         <category>Web Development</category>
@@ -40,8 +40,8 @@
         <description>
 </description>
         <pubDate>Wed, 16 Jul 2014 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/16/project-3/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/16/project-3/</guid>
+        <link>/web%20development/2014/07/16/project-3/</link>
+        <guid isPermaLink="true">/web%20development/2014/07/16/project-3/</guid>
         
         
         <category>Web Development</category>
@@ -49,15 +49,15 @@
       </item>
     
       <item>
-        <title>Treehouse</title>
+        <title>Cygnus Enterprises</title>
         <description>
 </description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/15/project-4/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/15/project-4/</guid>
+        <link>/game%20development/2014/07/15/project-4/</link>
+        <guid isPermaLink="true">/game%20development/2014/07/15/project-4/</guid>
         
         
-        <category>Web Development</category>
+        <category>Game Development</category>
         
       </item>
     
@@ -66,8 +66,8 @@
         <description>
 </description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/15/project-6/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/15/project-6/</guid>
+        <link>/web%20development/2014/07/15/project-6/</link>
+        <guid isPermaLink="true">/web%20development/2014/07/15/project-6/</guid>
         
         
         <category>Web Development</category>
@@ -79,8 +79,8 @@
         <description>
 </description>
         <pubDate>Mon, 14 Jul 2014 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/web%20development/2014/07/14/project-5/</link>
-        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/14/project-5/</guid>
+        <link>/web%20development/2014/07/14/project-5/</link>
+        <guid isPermaLink="true">/web%20development/2014/07/14/project-5/</guid>
         
         
         <category>Web Development</category>

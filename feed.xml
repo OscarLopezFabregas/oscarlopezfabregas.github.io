@@ -5,8 +5,8 @@
     <description>Videogame management and Production</description>
     <link>/</link>
 	  <atom:link href="/>feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 19 Jul 2023 21:03:53 +0800</pubDate>
-    <lastBuildDate>Wed, 19 Jul 2023 21:03:53 +0800</lastBuildDate>
+    <pubDate>Sun, 23 Jul 2023 19:56:19 +0800</pubDate>
+    <lastBuildDate>Sun, 23 Jul 2023 19:56:19 +0800</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -14,11 +14,11 @@
         <description>
 </description>
         <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
-        <link>/game%20development/2019/01/01/project-1/</link>
-        <guid isPermaLink="true">/game%20development/2019/01/01/project-1/</guid>
+        <link>/barcelona/2019/01/01/project-1/</link>
+        <guid isPermaLink="true">/barcelona/2019/01/01/project-1/</guid>
         
         
-        <category>Game Development</category>
+        <category>Barcelona</category>
         
       </item>
     
@@ -27,11 +27,11 @@
         <description>
 </description>
         <pubDate>Thu, 17 Jul 2014 00:00:00 +0800</pubDate>
-        <link>/web%20development/2014/07/17/project-2/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/17/project-2/</guid>
+        <link>/barcelona/2014/07/17/project-2/</link>
+        <guid isPermaLink="true">/barcelona/2014/07/17/project-2/</guid>
         
         
-        <category>Web Development</category>
+        <category>Barcelona</category>
         
       </item>
     
@@ -40,11 +40,11 @@
         <description>
 </description>
         <pubDate>Wed, 16 Jul 2014 00:00:00 +0800</pubDate>
-        <link>/web%20development/2014/07/16/project-3/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/16/project-3/</guid>
+        <link>/barcelona/2014/07/16/project-3/</link>
+        <guid isPermaLink="true">/barcelona/2014/07/16/project-3/</guid>
         
         
-        <category>Web Development</category>
+        <category>Barcelona</category>
         
       </item>
     
@@ -53,29 +53,29 @@
         <description>
 </description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 +0800</pubDate>
-        <link>/game%20development/2014/07/15/project-4/</link>
-        <guid isPermaLink="true">/game%20development/2014/07/15/project-4/</guid>
+        <link>/shanghai/2014/07/15/project-4/</link>
+        <guid isPermaLink="true">/shanghai/2014/07/15/project-4/</guid>
         
         
-        <category>Game Development</category>
+        <category>Shanghai</category>
         
       </item>
     
       <item>
-        <title>Round Icons</title>
+        <title>Surfing Waves</title>
         <description>
 </description>
         <pubDate>Tue, 15 Jul 2014 00:00:00 +0800</pubDate>
-        <link>/web%20development/2014/07/15/project-6/</link>
-        <guid isPermaLink="true">/web%20development/2014/07/15/project-6/</guid>
+        <link>/barcelona/2014/07/15/project-6/</link>
+        <guid isPermaLink="true">/barcelona/2014/07/15/project-6/</guid>
         
         
-        <category>Web Development</category>
+        <category>Barcelona</category>
         
       </item>
     
       <item>
-        <title>Startup Framework</title>
+        <title>Geometric Land</title>
         <description>
 </description>
         <pubDate>Mon, 14 Jul 2014 00:00:00 +0800</pubDate>
